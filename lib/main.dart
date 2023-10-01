@@ -1,3 +1,6 @@
+//16.936.330-7 ISMAEL VERGARA VIDELA
+//CFE1119-07 UNIVERSIDAD MAYOR - INGENIERIA EN INFORMÁTICA
+
 import 'package:flutter/material.dart';
 import 'routes/app_routes.dart';
 
